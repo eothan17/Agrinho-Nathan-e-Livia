@@ -18,11 +18,15 @@ color: #fff;
     display: flex;
     align-items: center;
     list-style: none;
-    padding: 8vh;
+    padding: 40px;
     color: #fff;
     
 }
 .nav-bar a{
     text-decoration: none;
     color: #fff;
+}
+
+.nav-bar li{
+    padding: 40px 4%;
 }
