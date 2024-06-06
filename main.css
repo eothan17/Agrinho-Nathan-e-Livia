@@ -30,3 +30,8 @@ color: #fff;
 .nav-bar li{
     padding: 40px 4%;
 }
+
+.container-head{
+    display: flex;
+    align-items: center;
+}
