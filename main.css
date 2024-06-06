@@ -17,4 +17,5 @@ color: #fff;
 .nav-bar{
     display: flex;
     align-items: center;
+    list-style: none;
 }
