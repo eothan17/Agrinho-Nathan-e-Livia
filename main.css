@@ -18,7 +18,7 @@ color: #fff;
     display: flex;
     align-items: center;
     list-style: none;
-   
+   justify-content: flex-end;
     color: #fff;
     
 }
@@ -34,5 +34,5 @@ color: #fff;
 .container-head{
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    
 }
