@@ -5,6 +5,7 @@
 }
 body{
     background-image: url(cyberpunk_city_by_nitramx_dg5x3cd-fullview.jpg);
+    background-size: cover
 }
 header .cabecalho{
 display: flex;
