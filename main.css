@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
-.cabecalho{
-    
+header .cabecalho{
+display: flex;
+background-color: #00000065;
+
 }
