@@ -7,8 +7,13 @@ body{
     background-image: url(cyberpunk_city_by_nitramx_dg5x3cd-fullview.jpg);
     background-size: cover
 }
-header .cabecalho{
+.cabecalho{
 display: flex;
 background-color: #00000065;
 
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
 }
