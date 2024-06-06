@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-image: url(cyberpunk_city_by_nitramx_dg5x3cd-fullview.jpg);
+}
 header .cabecalho{
 display: flex;
 background-color: #00000065;
