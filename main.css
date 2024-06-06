@@ -18,9 +18,9 @@ color: #fff;
     display: flex;
     align-items: center;
     list-style: none;
-    padding: 40px 4%;
+    padding: 8vh;
     color: #fff;
-    text-decoration: none;
+    
 }
 .nav-bar a{
     text-decoration: none;
