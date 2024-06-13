@@ -38,9 +38,10 @@ justify-content: center;
 }
 .container-topo h1{
     color: #fff;
-    font-size: 50px;
+   
   font-family: "Pixelify Sans", sans-serif;
-  font-weight: 600;
+  font-optical-sizing: auto;
+  font-weight: 800;
   font-style: normal;
-
 }
+
