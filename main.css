@@ -82,4 +82,11 @@ align-items: center;
     font-size: 50px;
    
     }
+    .texto-inicial{
+        color: #fff;
+        font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    }
 
