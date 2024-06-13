@@ -54,10 +54,11 @@ align-items: center;
     border-color: #fff;
     border-style: solid;
     text-align: center;
-    font-family: "Roboto Mono", monospace;
+    font-family: "Pixelify Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+    font-size: 50px;
     padding: 3px;
     border-color: #fff;
    
