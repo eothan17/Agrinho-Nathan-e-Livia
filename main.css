@@ -46,7 +46,7 @@ align-items: center;
 
 
  .botao-menu button{
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: #7a1db8;
     color: #fff;
     background-size: 40px;
@@ -58,7 +58,7 @@ align-items: center;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    padding: 2px;
+    padding: 4px;
  }
 .saiba-mais{
     display: flex;
