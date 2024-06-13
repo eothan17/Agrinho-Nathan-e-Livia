@@ -39,15 +39,13 @@ padding: 30px;
    
  
 
-.logo h1{
+.container-topo h1{
     color: #fff;
-   
     display: flex;
     transform: rotateX(-50px);
-
-      font-family: "Pixelify Sans", sans-serif;
-      font-optical-sizing: auto;
-      font-weight: 700;
-      font-style: normal;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
     }
 
