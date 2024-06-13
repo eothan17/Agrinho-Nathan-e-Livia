@@ -42,6 +42,8 @@ padding: 30px;
     background-color: #0fc45a;
     color: #fff;
     background-size: 20px;
+    display: flex;
+    justify-content: center;
  }
    
  
