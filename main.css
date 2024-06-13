@@ -60,7 +60,9 @@ align-items: center;
     font-style: normal;
     padding: 4px;
     border-color: #fff;
+    border-width: 2px;
  }
+ 
 .saiba-mais{
     display: flex;
     justify-content: center;
