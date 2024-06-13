@@ -36,8 +36,10 @@ align-items: center;
     text-decoration: none;
     color: #fff;
     
-        font-family: "Poppins", sans-serif;
-        font-weight: 900;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
       
       
 }
