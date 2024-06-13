@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -39,9 +40,11 @@ justify-content: center;
 .container-topo h1{
     color: #fff;
    
-  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
+    
+
+      font-family: "Pixelify Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 700;
+      font-style: normal;
+    }
 
