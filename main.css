@@ -34,6 +34,11 @@ padding: 30px;
 .nav-bar a{
     text-decoration: none;
     color: #fff;
+    .poppins-black-italic {
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+      }
 }
 
 
