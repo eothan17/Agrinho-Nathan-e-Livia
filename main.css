@@ -43,7 +43,7 @@ padding: 30px;
     color: #fff;
    
     display: flex;
-    justify-content: left;
+    transform: rotateX(-50px);
 
       font-family: "Pixelify Sans", sans-serif;
       font-optical-sizing: auto;
