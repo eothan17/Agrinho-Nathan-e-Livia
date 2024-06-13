@@ -84,10 +84,10 @@ align-items: center;
     }
     .texto-inicial{
         color: #fff;
-        font-family: "Roboto Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 30px;
+        font-family: "Pixelify Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+    font-size: 20px;
     }
 
