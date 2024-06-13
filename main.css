@@ -28,15 +28,9 @@ justify-content: center;
     color: #fff;
 }
 
-.nav-bar li{
-    padding: 60px 4%;
-}
 
-.container-head{
-    display: flex;
-    align-items: center;
     
-}
+
 .container-topo h1{
     color: #fff;
    
