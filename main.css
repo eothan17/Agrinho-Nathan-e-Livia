@@ -7,6 +7,7 @@
 body{
     background-image: url(cyberpunk_city_by_nitramx_dg5x3cd-fullview.jpg);
     background-size: cover
+    
 }
 .container-topo{
 display: flex;
@@ -16,7 +17,9 @@ justify-content: center;
 padding: 30px;
 align-items: center;
 }
-
+header{
+    max-width: 100%;
+}
 .nav-bar{
     display: inline-flex;
     align-items: center;
@@ -81,15 +84,6 @@ align-items: center;
     font-style: normal;
     font-size: 50px;
    
-    }
-    .texto-inicial{
-        color: #fff;
-        font-family: "Pixelify Sans", sans-serif;
-        font-optical-sizing: auto;
-        font-weight: 700;
-        font-style: normal;
-    font-size: 35px;
-    margin-top: 150px;
-    margin-left: 50px;
-    }
+}
+    
 
