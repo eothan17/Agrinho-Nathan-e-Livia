@@ -24,6 +24,7 @@ body{
   font-style: normal;
 }
 .container-topo ul{
+    padding-left: 50px;
     display: flex;
     justify-content: space-between;
 }
