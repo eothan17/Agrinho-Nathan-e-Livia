@@ -73,14 +73,14 @@ body{
 
 .cleaners{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 .itens-cleaners h1{
     color: #fff;
 }
 .itens-cleaners img{
-    width: 10vw;
+    width: 20vw;
 }
 .itens-cleaners{
     display: flex;
