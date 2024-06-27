@@ -94,7 +94,11 @@ body{
     
 }
 .dois{
+    background-size: 100%;
     background-image: url(Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    /* text-align: center; */
+    margin: 0 30px;
     
 }
 .tres{
