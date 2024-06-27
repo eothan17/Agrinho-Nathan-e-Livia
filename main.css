@@ -15,3 +15,11 @@ body{
     justify-content: center;
     background-image: linear-gradient(to right, #252F4D, #354E97);
 }
+.container-topo h1{
+    color: #fff;
+   
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
