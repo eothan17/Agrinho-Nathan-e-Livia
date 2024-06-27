@@ -13,4 +13,5 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: linear-gradient(to right, #252F4D, #354E97);
 }
