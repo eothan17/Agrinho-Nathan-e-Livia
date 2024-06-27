@@ -88,3 +88,20 @@ body{
     justify-content: space-between;
     padding: 0 50px;
 }
+
+.um{
+    background-image: url(Rectangle\ 3.png);
+    
+}
+.dois{
+    background-image: url(Rectangle\ 4.png);
+    
+}
+.tres{
+    background-image: url(Rectangle\ 5.png);
+    
+}
+
+.itens-projetos{
+    height: 40vw;
+}
