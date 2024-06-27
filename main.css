@@ -106,6 +106,10 @@ body{
     margin: 0 30px;
     
 }
+.dois p{
+    background-color: red;
+    border-radius: 14px 13px 0px 0;
+}
 .tres{
     background-image: url(Rectangle\ 5.png);
     background-size: 100%;
