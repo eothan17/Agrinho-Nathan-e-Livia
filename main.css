@@ -58,6 +58,11 @@ body{
     justify-content: center;
     
 }
+.main-itens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .main-container h2{
     color: #fff;
 }
