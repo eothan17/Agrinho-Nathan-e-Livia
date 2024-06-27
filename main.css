@@ -26,6 +26,7 @@ body{
 .container-topo ul{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .container-topo li{
     display: flex;
