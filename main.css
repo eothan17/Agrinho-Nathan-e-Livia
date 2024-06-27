@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #000;
+    background-color: #1b47be;
     background-size: cover
     
 }
@@ -51,4 +51,13 @@ body{
     color: #fff;
     text-decoration: none;
     
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main-container h2{
+    color: #fff;
 }
