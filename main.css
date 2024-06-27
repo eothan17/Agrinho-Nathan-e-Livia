@@ -71,18 +71,15 @@ body{
   font-style: normal;
 }
 
-.cleaners{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.itens-cleaners h1{
+
+
+.cleaners h1{
     color: #fff;
 }
-.itens-cleaners img{
+.cleaners img{
     width: 40vw;
 }
-.itens-cleaners{
+.cleaners{
     display: flex;
     align-items: center;
     justify-content: space-between;
