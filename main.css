@@ -105,3 +105,8 @@ body{
 .itens-projetos{
     height: 40vw;
 }
+
+.projetos{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
