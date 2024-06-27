@@ -70,3 +70,12 @@ body{
   font-weight: 900;
   font-style: normal;
 }
+
+.cleaners{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.itens-cleaners h1{
+    color: #fff;
+}
