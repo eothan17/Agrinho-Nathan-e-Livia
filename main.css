@@ -73,7 +73,7 @@ body{
 
 .cleaners{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 .itens-cleaners h1{
