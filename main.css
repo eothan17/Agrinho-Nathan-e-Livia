@@ -17,14 +17,14 @@ body{
 }
 .container-topo h1{
     color: #fff;
-   
+   display: flex;
+   justify-content: start;
   font-family: "Pixelify Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
 }
 .container-topo ul{
-    padding-left: 50px;
     display: flex;
     justify-content: space-between;
 }
