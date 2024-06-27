@@ -90,7 +90,12 @@ body{
 }
 
 .um{
-    background-image: url(Rectangle\ 3.png);
+  
+    background-image: url(Rectangle\ 5.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* text-align: center; */
+    margin: 0 30px;
     
 }
 .dois{
@@ -103,6 +108,10 @@ body{
 }
 .tres{
     background-image: url(Rectangle\ 5.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* text-align: center; */
+    margin: 0 30px;
     
 }
 
