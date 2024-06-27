@@ -27,3 +27,12 @@ body{
     display: flex;
     justify-content: space-between;
 }
+.container-topo li{
+    display: flex;
+    padding: 20px;
+    color: #fff;
+}
+.container-topo li a{
+    text-decoration: none;
+    color: #fff;
+}
