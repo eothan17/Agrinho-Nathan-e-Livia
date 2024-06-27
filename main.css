@@ -12,7 +12,7 @@ body{
 .container-topo{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     background-image: linear-gradient(to right, #252F4D, #354E97);
 }
 .container-topo h1{
@@ -25,7 +25,7 @@ body{
 }
 .container-topo ul{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 .container-topo li{
     display: flex;
