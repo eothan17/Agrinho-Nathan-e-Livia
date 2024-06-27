@@ -14,6 +14,7 @@ body{
     align-items: center;
     justify-content: space-between;
     background-image: linear-gradient(to right, #252F4D, #354E97);
+    padding: 0 23px;
 }
 .container-topo h1{
     color: #fff;
