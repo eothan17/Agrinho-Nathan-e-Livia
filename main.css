@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(cyberpunk_city_by_nitramx_dg5x3cd-fullview.jpg);
+    background-color: #000;
     background-size: cover
     
 }
@@ -16,6 +16,7 @@ color: #fff;
 justify-content: center;
 padding: 30px;
 align-items: center;
+max-width: 100%;
 }
 header{
     max-width: 100%;
