@@ -82,3 +82,9 @@ body{
 .itens-cleaners img{
     width: 10vw;
 }
+.itens-cleaners{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
