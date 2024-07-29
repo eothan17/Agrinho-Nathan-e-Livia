@@ -1,9 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+  }
+  header {
+    background-color: #00ff84d3;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+
 body{
     background-color: #093e7a;
     background-size: cover
@@ -26,6 +33,20 @@ body{
 }
 .container-topo ul{
     display: flex;
+    height: 100px;
+  }
+  .itens-cabeca {
+    color: #000000;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+  }
+  .itens-cabeca h1 {
+    color: #7a20a5;
+    padding-left: 30px;
+  }
+  .list-topo a {
     justify-content: center;
     align-items: center;
 }
@@ -36,6 +57,20 @@ body{
 }
 .container-topo li a{
     text-decoration: none;
+    color: #7a20a5;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .list-topo a:hover {
+    background-color: #ffffff;
+    padding: 1px;
+    border-radius: 5px;
+    transform: scale(1.1);
+  }
+  
+  .botoes-topo a {
     color: #fff;
 }
 .container-topo button{
@@ -50,18 +85,105 @@ body{
 .container-topo button a{
     color: #fff;
     text-decoration: none;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .botoes-topo :hover {
+    background-color: #5900ff;
+    padding: 3px;
+    border-radius: 5px;
+    transform: scale(1.1);
+  }
+  .itens-cabeca ul {
+    display: flex;
+    padding-left: 750px;
+  }
+  .itens-cabeca li {
+    display: inline-flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  .container-cabeca img {
+    margin-right: 550px;
+    margin-left: 50px;
+  }
+  .botoes-topo {
+    padding: 10px;
+  }
+  .botao-um {
+    background-color: #01a5b1;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px;
+    border-color: #fff;
+    border-radius: 5px;
+    border-style: none;
+  }
+  
+  .botao-dois {
+    background-color: #01a5b1;
+    font-size: 12px;
+    color: #fff;
+    padding: 5px;
+    border-color: #fff;
+    border-radius: 5px;
+    border-style: none;
+  }
+  body {
+    background-image: url(3d-rendering-money-tree.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  .itens-main {
+    text-decoration: none;
     
 }
 .main-container{
     display: flex;
+    padding-top: 50px;
+  }
+  .itens-main img {
+    width: 50vh;
+  }
+  
+  .text-main {
+    display: flex;
+    padding-right: 250px;
+    align-items: center;
+    padding-left: 200px;
+    color: #fff;
+  
+    font-family: "Modak", system-ui;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .text-main span {
+    color: #01a5b1;
+  }
+  .inicio {
+    display: flex;
+    align-items: center;
     align-items: center;
     justify-content: center;
+    background-color: #00ff8477;
+    margin: 0 204px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+  }
+ 
     
-}
+
 .main-itens{
     display: flex;
     justify-content: center;
     align-items: center;
+    display: flex;
+  }
+  .inicio_itens h2 {
     padding-top: 50px;
 }
 .main-container h2{
@@ -75,6 +197,16 @@ body{
 
 .cleaners h1{
     color: #fff;
+    background-color: #7a20a5;
+    padding: 50px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .projeto {
     font-size: 100px;
     text-transform: uppercase;
 }
@@ -84,9 +216,106 @@ body{
 .cleaners{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 50px;
-}
+    justify-content: center;
+    background-color: #00ff8477;
+    margin: 0 204px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+  }
+  .projeto h1 {
+    color: #fff;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7a20a5;
+    border-radius: 50px;
+  }
+  .projeto img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .interface_projeto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .itens_projetos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .compre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #00ff8477;
+    margin: 0 204px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .compre h1 {
+    color: #fff;
+  }
+  .compre h2 {
+    color: #fff;
+    background-color: #7a20a5;
+    border-radius: 50px;
+  }
+  .criadores {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00ff8477;
+    margin: 0 150px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .interface {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .foto-1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .foto-1 img {
+    display: flex;
+    width: 450px;
+  }
+  .foto-2 img {
+    display: flex;
+    width: 450px;
+  }
+  .criadores img {
+    display: flex;
+    flex-direction: row;
+  }
+  .criadores h1 {
+    color: #fff;
+    border-radius: 50px;
+    background-color: #7a20a5;
+  }
+  
 
 .um{
   
