@@ -10,28 +10,7 @@
     font-weight: 700;
     font-style: normal;
   }
-
-body{
-    background-color: #093e7a;
-    background-size: cover
-    
-}
-.container-topo{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-image: linear-gradient(to right, #252F4D, #354E97);
-    padding: 0 23px;
-}
-.container-topo h1{
-    color: #fff;
-   
-  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
-.container-topo ul{
+  .container-cabeca {
     display: flex;
     height: 100px;
   }
@@ -47,15 +26,6 @@ body{
     padding-left: 30px;
   }
   .list-topo a {
-    justify-content: center;
-    align-items: center;
-}
-.container-topo li{
-    display: flex;
-    padding: 20px;
-    color: #fff;
-}
-.container-topo li a{
     text-decoration: none;
     color: #7a20a5;
     font-family: "Pixelify Sans", sans-serif;
@@ -71,18 +41,6 @@ body{
   }
   
   .botoes-topo a {
-    color: #fff;
-}
-.container-topo button{
-    display: flex;
-    align-items: center;
-    padding: 3px;
-    background-color: #FFB226;
-    border-top-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-style: none;
-}
-.container-topo button a{
     color: #fff;
     text-decoration: none;
     font-family: "Pixelify Sans", sans-serif;
@@ -137,10 +95,6 @@ body{
     background-size: cover;
   }
   .itens-main {
-    text-decoration: none;
-    
-}
-.main-container{
     display: flex;
     padding-top: 50px;
   }
@@ -166,6 +120,30 @@ body{
   .inicio {
     display: flex;
     align-items: center;
+    justify-content: center;
+    background-color: #00ff8477;
+    margin: 0 204px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+  }
+  .interface-inicio {
+    align-items: center;
+    display: flex;
+  }
+  .inicio_itens h2 {
+    color: #fff;
+    background-color: #7a20a5;
+    padding: 50px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .projeto {
+    display: flex;
     align-items: center;
     justify-content: center;
     background-color: #00ff8477;
@@ -174,26 +152,99 @@ body{
     padding: 20px;
     border-radius: 50px;
   }
- 
-    
-
-.main-itens{
+  .projeto h1 {
+    color: #fff;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7a20a5;
+    border-radius: 50px;
+  }
+  .projeto img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .interface_projeto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .itens_projetos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .compre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #00ff8477;
+    margin: 0 204px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .compre h1 {
+    color: #fff;
+  }
+  .compre h2 {
+    color: #fff;
+    background-color: #7a20a5;
+    border-radius: 50px;
+  }
+  .criadores {
     display: flex;
     justify-content: center;
     align-items: center;
-    display: flex;
+    background-color: #00ff8477;
+    margin: 0 150px;
+    margin-top: 150px;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
   }
-  .inicio_itens h2 {
-    padding-top: 50px;
-}
-.main-container h2{
+  .interface {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .foto-1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .foto-1 img {
+    display: flex;
+    width: 450px;
+  }
+  .foto-2 img {
+    display: flex;
+    width: 450px;
+  }
+  .criadores img {
+    display: flex;
+    flex-direction: row;
+  }
+  .criadores h1 {
     color: #fff;
-    font-family: "Poppins", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-}
-
-
+    border-radius: 50px;
+    background-color: #7a20a5;
+  }
+  
 
 .cleaners h1{
     color: #fff;
